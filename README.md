@@ -1,2 +1,2 @@
 # CloudResume
-A repository dedicated to CloudResumeProject v1.
+A repository dedicated to CloudResumeProject AWS Edition.
